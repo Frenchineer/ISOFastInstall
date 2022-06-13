@@ -1,6 +1,9 @@
 # ISOFastInstall
 simple powershell script to create bootable usb devices
 
+it will always choose disk1 as the usb target, this may cause big problem if you have 2 disks other than the usb you want to flash.
+always use one usb stick at a time, if you have multiple device plugged you won't be able to choose wich is going to be erased.
+
 Place your ISOs in the ISO folder (use this format to be sure there is no syntax errors: OSversion.iso exemples: WINDOWS10.iso, KALI2022_2amd64.iso, dots in name will probably crash everything).
 Launch with start.ps1, select options, wait and your usb device is ready.
 

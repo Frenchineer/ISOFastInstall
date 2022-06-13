@@ -10,3 +10,4 @@ Do not excpect much update or anything else from me, I will work on it only when
 https://github.com/Frenchineer (thats me)
 
 I made this program for my training period.
+I do not take any responsabilities for data loss or material damage, this is my first script and i'm not aware of a lot of things.
